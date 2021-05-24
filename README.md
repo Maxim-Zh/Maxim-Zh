@@ -1,6 +1,6 @@
 - Hi, I’m @Maxim-Zh
 - I’m interested in Python.
-- I’m currently learning Python.
+- I’m currently learning Python CORE, on my way to learn Django.
 - You can contact me on zheleznov.maxim@gmail.com.
 
 <!---
