@@ -1,6 +1,6 @@
 - Hi, I’m @Maxim-Zh
-- I’m interested in Python.
-- You can contact me on zheleznov.maxim@gmail.com.
+- Middle Python dev with 3+ years of commercial development.
+- You can contact me on Telegram @maksimzh404.
 
 <!---
 Maxim-Zh/Maxim-Zh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
