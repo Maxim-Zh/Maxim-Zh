@@ -1,5 +1,5 @@
 - Hi, I’m @Maxim-Zh
-- Middle Python dev with 3+ years of commercial development.
+- Middle Python dev with 5+ years of commercial development.
 - You can contact me on Telegram @maksimzh404.
 
 <!---
